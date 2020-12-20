@@ -6,7 +6,7 @@ Translate your large text files into JSON files.
 - An empty output JSON file (output.json) is necessary for this version.
 
 ## Finishing the JSON
-- You must add open and close brackets ( `[]` ) to beginning and end of the output file.
+- You must add open and close brackets ( `[ ` and ` ]` ) to beginning and end of the output file.
 - You must search for `}{` and replace all with `},{`
 
 ## Before you go..
