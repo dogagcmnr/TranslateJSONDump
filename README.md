@@ -12,7 +12,7 @@ version 1.0
 Before you go, you can always validate your JSON files online.
 Here's some validation servies I've found on the internet:
 
-- https://jsonformatter.curiousconcept.com/#.  (I have used this one while I was working for [Letra Extension by Jaye Hernandez](https://github.com/jayehernandez/letra-extension)
+- https://jsonformatter.curiousconcept.com/# - I have used this one while I was working for [Letra Extension by Jaye Hernandez](https://github.com/jayehernandez/letra-extension)
 - https://jsonlint.com/
 - https://jsonformatter.org/
 
