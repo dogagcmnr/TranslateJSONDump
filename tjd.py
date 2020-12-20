@@ -7,7 +7,7 @@ class Object:
 
 translator = Translator()
 
-json_file = open('turkish.json', 'a') # You should set a specific file for your translations.
+json_file = open('output.json', 'a') # You should set a specific file for your translations.
 translate_block = Object()
 dump_file = open('dump.txt','r')
 
